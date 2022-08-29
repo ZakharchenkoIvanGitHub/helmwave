@@ -45,7 +45,6 @@ Documentation available at https://helmwave.github.io/docs
 - [contribution guide](https://github.com/helmwave/helmwave/blob/main/CONTRIBUTING.md)
 - [security and vulnerabilities](https://github.com/helmwave/helmwave/blob/main/SECURITY.md)
 
-
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/helmwave/helmwave.svg)](https://starchart.cc/helmwave/helmwave)
